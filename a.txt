@@ -1,6 +1,7 @@
 ﻿my first git hub commit
 personal access token
 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
+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
 git
 	add .
 	commit
